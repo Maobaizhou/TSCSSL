@@ -1,2 +1,3 @@
 # TSCSSL
 The use of unsupervised machine learning for clustering and interpreting hydrogeochemical processes is often limited by the difficulty of interpreting the results, especially when multiple controlling factors produce a large number of clusters. However, adjusting the model to reduce the number of classes may lead to substantial intra-class variability in some groups. To interpret this intra-group difference without altering the initial unsupervised clustering, we developed a typical sample-constrained semi-supervised hydrochemical classification method (TSCSSL)
+<img width="1880" height="970" alt="workflow" src="https://github.com/user-attachments/assets/385e0b67-9c0a-41fb-9a4c-37964d093142" />
